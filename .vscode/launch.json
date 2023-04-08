@@ -1,0 +1,14 @@
+
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Open Principal.html",
+            "file": "${workspaceFolder}/Principal.html",
+            "webRoot": "${workspaceFolder}/Fase3_YeissonMenaBogallo_1601"
+        }
+    ]
+    
+
+}
