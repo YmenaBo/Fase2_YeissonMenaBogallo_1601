@@ -8,7 +8,7 @@
         {
             "type": "msedge",
             "request": "launch",
-            "name": "Open Index.html",
+            "name": "Open Principal.html",
             "file": "C:\\Users\\JazzOld\\OneDrive\\Documentos\\GitHub\\Fase2_YeissonMenaBogallo_1601\\Principal.html"
         }
     ]
